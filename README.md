@@ -1,5 +1,6 @@
 ## Hey, I'm George. 
-I live in New York City. I like music, good food, being outside, and coding. 2009-FSA. Developer @ FGS Global.
+Front End Developer focused on quality and optimization. 
+Also, curious and autonomous, aiming to learn new technologies.
 
 ### Get In Touch
 <a href="mailto:nicola_george1999@yahoo.com"><img src="https://img.shields.io/badge/Yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=white"></a> <a href="https://www.linkedin.com/in/nicola-george-petrus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
