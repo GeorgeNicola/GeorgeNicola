@@ -1,5 +1,5 @@
 ## Hey, I'm George. 
-Front End Developer focused on quality and optimization. 
+Full-Stack Developer focused on quality and optimization. 
 Also, curious and autonomous, aiming to learn new technologies.
 
 ### Get In Touch
